@@ -1,1 +1,1 @@
-Voici un nouveau fichier texte que j'ai créé ; je serai désormais sur GitHub.com grâce à GitHub Desktop.
+Voici un nouveau texte que j'ai modifié avec Git Bash.
